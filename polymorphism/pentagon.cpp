@@ -1,4 +1,5 @@
 #include "pentagon.h"
+#include <iostream>
 
 Pentagon::Pentagon(double lenght) {
   vertices = 5;

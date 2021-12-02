@@ -1,5 +1,6 @@
 #pragma once
 
+#include <ostream>
 #include "polygon.h"
 #include "serialization.h"
 
